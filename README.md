@@ -17,7 +17,7 @@ A simple real-time chat application with user authentication, private messaging,
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Prepare the Java Files
 
 ### 2. MySQL Database Setup
 
